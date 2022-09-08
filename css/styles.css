@@ -1,0 +1,30 @@
+.bg-dark{
+    background: red !important;
+}
+
+.nav-link{
+    color: white;
+}
+.pimgstyle{
+    width: 100%;
+}
+
+.page-containerr{
+    position: relative;
+    min-height: 66vh;
+}
+.content-wrap{
+    padding-bottom: 8rem;
+}
+.footerstyle{
+    text-align: center;
+    background: red;
+    position: absolute fixed;
+    bottom: 0;
+    width: 100%;
+    height: 8rem;
+    
+}
+.footertext{
+    color: white;
+}
